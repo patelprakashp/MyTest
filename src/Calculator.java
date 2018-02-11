@@ -1,6 +1,6 @@
 
 import java.util.Scanner;
-
+// write your own  code
 public class Calculator {
     public static void main(String[] args) {
         System.out.println("Enter first and second number:");
